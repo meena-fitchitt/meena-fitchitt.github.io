@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Website
 
-You can use the [editor on GitHub](https://github.com/meena-fitchitt/meena-fitchitt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Sales Associate for Xfinity. I have a bit over 2 years in customer service experience as well as 6+ months of sales experience. Currently, I am looking to pursue a bachelor's degree in computer science to become a web developer. I have experience using HTML as well as CSS and I have some basic experience with JavaScript. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
