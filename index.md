@@ -1,16 +1,16 @@
-## Welcome to my Website
+## My First Website
 
-I am currently a Sales Associate for Xfinity. I have a bit over 2 years in customer service experience as well as 6+ months of sales experience. Currently, I am looking to pursue a bachelor's degree in computer science to become a web developer. I have experience using HTML as well as CSS and I have some basic experience with JavaScript. 
+Hello there! My name is Meena Fitchitt and this is my first website in the world of GitHub. I am very much looking forward to get to know this platform better and create many awesome projects.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you so much for coming along on this jounrney with me. 
 
-## Experience
+## Currently PLaying:
 
-Below is a summary of my experience. 
+Below is a list of video games that I am actively playing. 
 
 ```markdown
-###Position:
-###Employer
+###Game:
+###Publisher:
 
 - Bulleted
 - List
